@@ -1,0 +1,5 @@
+{
+  "name": "Upopoy Audio Guide",
+  "description": "Official audio guide application for the Upopoy National Ainu Museum and Park.",
+  "requestFramePermissions": ["camera"]
+}
